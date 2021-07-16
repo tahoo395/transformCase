@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["caseTransformer","camelCase","PascalCase","kebab-case","COBOL-CASE","MACRO_CASE","snake_case","case detector","case getter","case","camel to pascal"],
+  "author": "Tahmid Ahnaf",
   "license": "ISC"
 }
