@@ -1,6 +1,6 @@
 {
   "name": "case-transformer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "We often need to convert cases like camelCase to kebab-case , PascalCase to snake_case and so on. because in some frontend or backend technologies have some restrictions in case naming. In this case , we can directly rename them. But the best idea would be set a package which would change the cases and this package does this !",
   "main": "index.js",
   "scripts": {
