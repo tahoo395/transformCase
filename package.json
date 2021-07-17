@@ -1,12 +1,32 @@
 {
-  "name": "weather",
+  "name": "case-transformer",
   "version": "1.0.0",
-  "description": "",
+  "description": "We often need to convert cases like camelCase to kebab-case , PascalCase to snake_case and so on. because in some frontend or backend technologies have some restrictions in case naming. In this case , we can directly rename them. But the best idea would be set a package which would change the cases and this package does this !",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["caseTransformer","camelCase","PascalCase","kebab-case","COBOL-CASE","MACRO_CASE","snake_case","case detector","case getter","case","camel to pascal"],
+  "keywords": [
+    "caseTransformer",
+    "camelCase",
+    "PascalCase",
+    "kebab-case",
+    "COBOL-CASE",
+    "MACRO_CASE",
+    "snake_case",
+    "case detector",
+    "case getter",
+    "case",
+    "camel to pascal"
+  ],
   "author": "Tahmid Ahnaf",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahmidahnaf/transformCase.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tahmidahnaf/transformCase/issues"
+  },
+  "homepage": "https://github.com/tahmidahnaf/transformCase#readme"
 }
