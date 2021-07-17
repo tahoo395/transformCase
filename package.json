@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/tahmidahnaf/transformCase/issues"
   },
-  "homepage": "https://github.com/tahmidahnaf/transformCase#readme"
+  "homepage": "https://github.com/tahmidahnaf/transformCase#readme",
+  "dependencies": {
+    "case-transformer": "^1.0.1"
+  }
 }
